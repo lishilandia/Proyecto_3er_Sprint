@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;900&display=swap");
+
+.App {
+  border-top: 7px solid #6809e1;
+  height: 100%;
+}
